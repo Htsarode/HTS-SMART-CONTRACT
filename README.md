@@ -9,7 +9,7 @@ Names of Team Members :- Himanshu Sarode
 Project Name :- Smart Contract
 
 Project Description :-   
-Smart Contract is basically design for scheduling meetings with guests and clients , so that only owner that right to arrange the meeting parameters such as date and time, number of guests, etc. There are different entry points in this smart contract. 
+                       Smart Contract is basically design for scheduling meetings with guests and clients , so that only owner that right to arrange the meeting parameters such as date and time, number of guests, etc. There are different entry points in this smart contract. 
 
 The 1st entry_point is for setting the date for that particular meeting .
 
