@@ -17,7 +17,7 @@ The 2nd entry_point is for setting the number of guests attending the meeting .
 
 The 3rd entry_point is for changing the owner i.e if the owner is change by chance, so that this entry point will be benificial for changing the owner. So, after changing the owner through 3rd entry_point ,the previous owner will not be able to do any modification in the scheduled meeting.
 
-[INSPIRATION] :-          Smart contracts have the potential to revolutionise how we do business online. They're faster and more cost-effective than traditional contract law because they don't require manual enforcement by third parties – which means fewer costs for businesses and consumers.
+INSPIRATION :-          Smart contracts have the potential to revolutionise how we do business online. They're faster and more cost-effective than traditional contract law because they don't require manual enforcement by third parties – which means fewer costs for businesses and consumers.
 
 DEPLOYMENT ADDRESS :-   Ghostnet
 
