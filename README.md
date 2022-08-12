@@ -4,9 +4,9 @@ TEZASIA HACKATHON
 
 TEAM NAME :- HTS
 
-NAMES OF TEAM MEMBERS :- Himanshu Sarode
+NAMES OF TEAM MEMBERS :- Himanshu Sarode.
 
-PROJECT NAME :- Smart Contract
+PROJECT NAME :- Smart Contract.
 
 PROJECT DESCRIPTION :-   
                        Smart Contract is basically design for scheduling meetings with guests and clients , so that only owner that right to arrange the meeting parameters such as date and time, number of guests, etc. There are different entry points in this smart contract. 
