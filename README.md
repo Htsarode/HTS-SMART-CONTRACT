@@ -24,4 +24,7 @@ DEPLOYMENT ADDRESS :-   Ghostnet
                    KT1AcZWY6BbXJKnspNiURuHuwu3Be5wagNrv
                    
 BETTER_CALL_DEV_LINK :-        https://better-call.dev/ghostnet/KT1AcZWY6BbXJKnspNiURuHuwu3Be5wagNrv/operations
+
+
+RUNNING INSTRUCTIONS :- After the compilation of the smart contract , first go through the 1st entry_point to set the date for the meeting. After that go through the 2nd entry point to set the number of guests for the meeting. Thus, the meeting is schedule. But incase if the owner is to be change ,then go through the 3rd entry_point and change the owner . After changing the owner the previous owner will not be able to do any meeting scheduling.
                  
